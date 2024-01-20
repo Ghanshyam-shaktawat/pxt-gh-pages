@@ -60,19 +60,15 @@ CACHE:
 /pxt-gh-pages/worker.js
 /pxt-gh-pages/monacoworker.js
 
-# ver Thu Jan 11 2024 00:07:27 GMT+0530 (India Standard Time)
+# ver Sat Jan 20 2024 15:44:18 GMT+0530 (India Standard Time)
 
 # target
-/pxt-gh-pages/docs/static/providers/github-mark.png
-/pxt-gh-pages/docs/static/providers/microsoft-logo.svg
-/pxt-gh-pages/docs/static/providers/google-logo.svg
-/pxt-gh-pages/docs/static/providers/clever-logo.png
 /pxt-gh-pages/docs/static/logo.portrait.white.svg
+/pxt-gh-pages/docs/static/logo.square.white.svg
 /pxt-gh-pages/docs/static/logo.square.white.svg
 /pxt-gh-pages/docs/static/logo.portrait.black.svg
 /pxt-gh-pages/docs/static/icons/apple-touch-icon.png
-/pxt-gh-pages/docs/static/Microsoft_logo_rgb_W-white_D-square.png
-/pxt-gh-pages/docs/static/Microsoft_logo_rgb_W-white_D.png
+/pxt-gh-pages/docs/static/plogo.png
 /pxt-gh-pages/docs/static/herogallery/hero-banner.png
 /pxt-gh-pages/docs/static/download/transfer.png
 /pxt-gh-pages/docs/static/download/connect-microbit.gif

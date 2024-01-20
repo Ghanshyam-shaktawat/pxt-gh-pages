@@ -1,14 +1,14 @@
 {
     "id": "microbit",
     "nickname": "microbit",
-    "name": "makecode.microbit.org",
-    "title": "Microsoft MakeCode for micro:bit",
-    "description": "A Blocks / JavaScript code editor for the micro:bit powered by Microsoft MakeCode.",
+    "name": "proxieverse.microbit.org",
+    "title": "Proxieverse MakeCode for micro:bit",
+    "description": "A Blocks / JavaScript code editor by Proxieverse",
     "corepkg": "core",
     "cloud": {
         "workspace": false,
         "packages": true,
-        "sharing": true,
+        "sharing": false,
         "thumbnails": true,
         "publishing": true,
         "importing": true,
@@ -16,40 +16,7 @@
         "preferredPackages": [
             "Microsoft/pxt-neopixel"
         ],
-        "githubPackages": true,
-        "cloudProviders": {
-            "github": {
-                "id": "github",
-                "name": "GitHub",
-                "icon": "docs/static/providers/github-mark.png",
-                "identity": false,
-                "order": 3
-            },
-            "microsoft": {
-                "id": "microsoft",
-                "name": "Microsoft",
-                "icon": "docs/static/providers/microsoft-logo.svg",
-                "identity": true,
-                "redirect": true,
-                "order": 1
-            },
-            "google": {
-                "id": "google",
-                "name": "Google",
-                "icon": "docs/static/providers/google-logo.svg",
-                "identity": true,
-                "redirect": true,
-                "order": 2
-            },
-            "clever": {
-                "id": "clever",
-                "name": "Clever",
-                "icon": "docs/static/providers/clever-logo.png",
-                "identity": true,
-                "redirect": true,
-                "order": 3
-            }
-        }
+        "githubPackages": true
     },
     "compile": {
         "isNative": false,

@@ -1,9 +1,9 @@
 var pxtTargetBundle = {
     "id": "microbit",
     "nickname": "microbit",
-    "name": "makecode.microbit.org",
-    "title": "Microsoft MakeCode for micro:bit",
-    "description": "A Blocks / JavaScript code editor for the micro:bit powered by Microsoft MakeCode.",
+    "name": "proxieverse.microbit.org",
+    "title": "Proxieverse MakeCode for micro:bit",
+    "description": "A Blocks / JavaScript code editor by Proxieverse",
     "corepkg": "core",
     "bundleddirs": [
         "libs/core",
@@ -22,7 +22,7 @@ var pxtTargetBundle = {
     "cloud": {
         "workspace": false,
         "packages": true,
-        "sharing": true,
+        "sharing": false,
         "thumbnails": true,
         "publishing": true,
         "importing": true,
@@ -30,40 +30,7 @@ var pxtTargetBundle = {
         "preferredPackages": [
             "Microsoft/pxt-neopixel"
         ],
-        "githubPackages": true,
-        "cloudProviders": {
-            "github": {
-                "id": "github",
-                "name": "GitHub",
-                "icon": "docs/static/providers/github-mark.png",
-                "identity": false,
-                "order": 3
-            },
-            "microsoft": {
-                "id": "microsoft",
-                "name": "Microsoft",
-                "icon": "docs/static/providers/microsoft-logo.svg",
-                "identity": true,
-                "redirect": true,
-                "order": 1
-            },
-            "google": {
-                "id": "google",
-                "name": "Google",
-                "icon": "docs/static/providers/google-logo.svg",
-                "identity": true,
-                "redirect": true,
-                "order": 2
-            },
-            "clever": {
-                "id": "clever",
-                "name": "Clever",
-                "icon": "docs/static/providers/clever-logo.png",
-                "identity": true,
-                "redirect": true,
-                "order": 3
-            }
-        }
+        "githubPackages": true
     },
     "compile": {
         "isNative": false,
@@ -392,17 +359,17 @@ var pxtTargetBundle = {
     },
     "appTheme": {
         "accentColor": "#5C005C",
-        "logoUrl": "https://microbit.org/",
+        "logoUrl": "/",
         "logo": "docs/static/logo.portrait.white.svg",
         "docsLogo": "docs/static/logo.square.white.svg",
         "portraitLogo": "docs/static/logo.square.white.svg",
         "footerLogo": "docs/static/logo.portrait.black.svg",
         "cardLogo": "docs/static/icons/apple-touch-icon.png",
         "appLogo": "docs/static/icons/apple-touch-icon.png",
-        "organization": "Microsoft MakeCode",
-        "organizationUrl": "https://makecode.com/",
-        "organizationLogo": "docs/static/Microsoft_logo_rgb_W-white_D-square.png",
-        "organizationWideLogo": "docs/static/Microsoft_logo_rgb_W-white_D.png",
+        "organization": "Proxieverse MakeCode",
+        "organizationUrl": "/",
+        "organizationLogo": "docs/static/plogo.png",
+        "organizationWideLogo": "docs/static/plogo.png",
         "homeScreenHero": {
             "imageUrl": "docs/static/herogallery/hero-banner.png",
             "name": "Flashing Heart",
@@ -412,8 +379,8 @@ var pxtTargetBundle = {
         },
         "homeScreenHeroGallery": "/hero-banner",
         "homeUrl": "/pxt-gh-pages/",
-        "embedUrl": "https://makecode.microbit.org/",
-        "shareUrl": "https://makecode.microbit.org/",
+        "embedUrl": "/",
+        "shareUrl": "/",
         "privacyUrl": "https://makecode.com/privacy",
         "termsOfUseUrl": "https://makecode.com/termsofuse",
         "githubUrl": "https://github.com/Microsoft/pxt-microbit",
@@ -446,20 +413,12 @@ var pxtTargetBundle = {
         ],
         "docMenu": [
             {
-                "name": "Support",
-                "path": "https://support.microbit.org/"
-            },
-            {
                 "name": "Reference",
                 "path": "/pxt-gh-pages/docs/reference"
             },
             {
                 "name": "Hardware",
                 "path": "/pxt-gh-pages/docs/device"
-            },
-            {
-                "name": "Buy",
-                "path": "https://microbit.org/resellers"
             }
         ],
         "hasReferenceDocs": true,
@@ -469,12 +428,6 @@ var pxtTargetBundle = {
         "coloredToolbox": true,
         "monacoToolbox": true,
         "hasAudio": true,
-        "socialOptions": {
-            "orgTwitterHandle": "MSMakeCode",
-            "hashtags": "MakeCode",
-            "discourse": "https://forum.makecode.com/",
-            "discourseCategory": "micro:bit"
-        },
         "blocklyOptions": {
             "grid": {
                 "spacing": 45,
@@ -2659,9 +2612,9 @@ var pxtTargetBundle = {
             }
         ],
         "id": "microbit",
-        "title": "Microsoft MakeCode for micro:bit",
-        "name": "makecode.microbit.org",
-        "description": "A Blocks / JavaScript code editor for the micro:bit powered by Microsoft MakeCode.",
+        "title": "Proxieverse MakeCode for micro:bit",
+        "name": "proxieverse.microbit.org",
+        "description": "A Blocks / JavaScript code editor by Proxieverse",
         "htmlDocIncludes": {}
     },
     "queryVariants": {
