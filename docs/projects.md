@@ -5,7 +5,7 @@
     {
         "name": "Tutorials",
         "url": "/tutorials",
-        "imageUrl": "pxt-gh-pages/docs/static/mb/projects/a1-display.png",
+        "imageUrl": "https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/a1-display.png",
         "largeImageUrl": "/docs/static/mb/projects/flashing-heart/sim.gif"
     },
     {
