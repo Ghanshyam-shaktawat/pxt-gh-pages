@@ -27,7 +27,7 @@ Here are some cool tutorials to get you started with your @boardname@!
 }, {
   "name": "Name Tag",
   "description": "Scroll your name on the screen",
-  "imageUrl": "/docs/static/mb/projects/name-tag.png",
+  "imageUrl": "https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/name-tag.png",
   "url": "/projects/name-tag",
   "cardType": "tutorial",
   "youTubeId": "tOgVbOG5QAo",
@@ -44,7 +44,7 @@ Here are some cool tutorials to get you started with your @boardname@!
   "name": "Smiley Buttons",
   "url":"/projects/smiley-buttons",
   "description": "Show different smiley images by pressing the buttons.",
-  "imageUrl": "/docs/static/mb/projects/a2-buttons.png",
+  "imageUrl": "https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/a2-buttons.png",
   "largeImageUrl": "/docs/static/mb/projects/smiley-buttons/sim.gif",
   "cardType": "tutorial",
   "youTubeId": "kZOTlXGIzPI",
@@ -61,7 +61,7 @@ Here are some cool tutorials to get you started with your @boardname@!
   "name": "Dice",
   "url":"/projects/dice",
   "description": "Shake the dice and see what number comes up!",
-  "imageUrl": "/docs/static/mb/projects/dice.png",
+  "imageUrl": "https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/dice.png",
   "cardType": "tutorial",
   "youTubeId": "8lrlMwWDPo8",
   "otherActions": [{
@@ -77,7 +77,7 @@ Here are some cool tutorials to get you started with your @boardname@!
   "name": "Love Meter",
   "url":"/projects/love-meter",
   "description": "Is the micro:bit is feeling the love, see how much!",
-  "imageUrl":"/docs/static/mb/projects/a3-pins.png",
+  "imageUrl":"https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/a3-pins.png",
   "cardType": "tutorial",
   "youTubeId": "sEIRwv2Aa2Q",
   "otherActions": [{
@@ -93,7 +93,7 @@ Here are some cool tutorials to get you started with your @boardname@!
   "name": "Micro Chat",
   "url":"/projects/micro-chat",
   "description": "Build your own social network made of micro:bits.",
-  "imageUrl": "/docs/static/mb/projects/a9-radio.png",
+  "imageUrl": "https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/a9-radio.png",
   "cardType": "tutorial",
   "youTubeId": "egTeIghYXak",
   "otherActions": [{

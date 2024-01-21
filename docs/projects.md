@@ -11,7 +11,7 @@
     {
         "name": "Tutorials for the new micro:bit (V2)",
         "url": "/tutorials-v2",
-        "imageUrl": "/docs/static/mb/projects/pet-hamster.png"
+        "imageUrl": "https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/pet-hamster.png"
     },
     {
         "name": "Games",
