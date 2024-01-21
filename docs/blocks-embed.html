@@ -98,7 +98,7 @@
         <div class="item">
             <form id="tocsearch1" class="search" role="form" method="get" action="https://www.bing.com/search">
                 <div class="ui fluid icon input">
-                    <input type="hidden" name="q1" value="site:/" />
+                    <input type="hidden" name="q1" value="site:https://ghanshyam-shaktawat.github.io/pxt-gh-pages/" />
                     
                 <input type="search" name="q" placeholder="Search..." aria-label="Search Documentation">
                 <i onclick="document.getElementById('tocsearch1').submit();" tabindex="0" class="search link icon" aria-label="Search" role="button"></i>
@@ -1715,7 +1715,7 @@ A quick solution is take screenshots of the snippets but that approach can quick
 <li>add the following entry in the <code>_config.yml</code></li>
 </ul>
 <pre><code class="lang-yml">  makecode:
-    home_url: /</code></pre>
+    home_url: https://ghanshyam-shaktawat.github.io/pxt-gh-pages/</code></pre>
 <ul>
 <li>copy the following text at the bottom of your <code>README.md</code> file</li>
 </ul>
@@ -1820,7 +1820,7 @@ basic.showString(&quot;Hello World&quot;)
         type: &quot;renderblocks&quot;,
         id: pre.id,
         code: pre.innerText
-    }, &quot;/&quot;);
+    }, &quot;https://ghanshyam-shaktawat.github.io/pxt-gh-pages/&quot;);
 }</code></pre>
 <h3 id="create-the-code-iframe-code-renderer">Create the <code>iframe</code> renderer</h3><p>Finally, the rendering <code>iframe</code> is added to the HTML DOM and is hidden so that it does not interfere with the outer document page.</p>
 <pre><code class="lang-typescript-ignore">function makeCodeInjectRenderer() {
@@ -1831,7 +1831,7 @@ basic.showString(&quot;Hello World&quot;)
     f.style.bottom = 0;
     f.style.width = &quot;1px&quot;;
     f.style.height = &quot;1px&quot;;            
-    f.src = &quot;/--docs?render=1&quot;
+    f.src = &quot;https://ghanshyam-shaktawat.github.io/pxt-gh-pages/--docs?render=1&quot;
     document.body.appendChild(f);
 }
 
@@ -1899,7 +1899,7 @@ for (let i = 0; i &lt; 10; i++) {
 &lt;/div&gt;
 
 &lt;script&gt;
-var makecodeUrl = &quot;/&quot;;
+var makecodeUrl = &quot;https://ghanshyam-shaktawat.github.io/pxt-gh-pages/&quot;;
 var blocksClass = &quot;blocks&quot;;
 
 var injectRenderer = function () {
@@ -1921,7 +1921,7 @@ function makeCodeRenderPre(pre) {
         type: &quot;renderblocks&quot;,
         id: pre.id,
         code: pre.innerText
-    }, &quot;/&quot;);
+    }, &quot;https://ghanshyam-shaktawat.github.io/pxt-gh-pages/&quot;);
 }
 
 var attachBlocksListener = function () {
@@ -1975,7 +1975,7 @@ strip.setPixelColor(0, NeoPixelColors.White)
         options: {
             package: &quot;neopixel=github:microsoft/pxt-neopixel&quot;
         }
-    }, &quot;/&quot;);
+    }, &quot;https://ghanshyam-shaktawat.github.io/pxt-gh-pages/&quot;);
 }</code></pre>
 <h2 id="rendering-shared-projects">Rendering shared projects</h2><p>Rendering a shared project is accomplished in almost the same manner as the embedded blocks method. In this case though,
 leave the <code>code</code> attribute empty and pass the shared project id in a <code>options.packageId</code> data field.</p>
@@ -1989,7 +1989,7 @@ leave the <code>code</code> attribute empty and pass the shared project id in a 
     options: {
         packageId: pre.getAttribute(&quot;data-packageid&quot;)
     }
-}, &quot;/&quot;);</code></pre>
+}, &quot;https://ghanshyam-shaktawat.github.io/pxt-gh-pages/&quot;);</code></pre>
 <p>See this <a target="_blank" rel="nofollow noopener" href="https://jsfiddle.net/L8msdjpu/3/">HTML</a> example.</p>
 <h2 id="lazy-loading">Lazy loading</h2><p>You can detect whether you have any snippet on your page before loading the rendering <code>iframe</code>.</p>
 

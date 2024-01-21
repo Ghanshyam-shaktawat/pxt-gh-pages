@@ -501,14 +501,7 @@
     },
     "galleries": {
         "Tutorials": "tutorials",
-        "Tutorials for the new micro:bit (V2)": "tutorials-v2",
-        "Games": "projects/games",
-        "Radio Games": "projects/radio-games",
-        "Fashion": "projects/fashion",
-        "Music": "projects/music",
-        "Tools": "projects/tools",
-        "Turtle": "projects/turtle",
-        "Blocks to JavaScript": "courses/blocks-to-javascript"
+        "Tutorials for the new micro:bit (V2)": "tutorials-v2"
     },
     "electronManifest": {
         "latest": "v6.0.19"

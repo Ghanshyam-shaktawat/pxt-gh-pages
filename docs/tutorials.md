@@ -14,7 +14,6 @@ Here are some cool tutorials to get you started with your @boardname@!
   "cardType": "tutorial",
   "label": "New? Start Here!",
   "labelClass": "purple ribbon large",
-  "youTubeId": "hiERNxxfxJQ",
   "otherActions": [{
     "url": "/projects/spy/flashing-heart",
     "editor": "py",
@@ -30,7 +29,6 @@ Here are some cool tutorials to get you started with your @boardname@!
   "imageUrl": "https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/name-tag.png",
   "url": "/projects/name-tag",
   "cardType": "tutorial",
-  "youTubeId": "tOgVbOG5QAo",
   "otherActions": [{
     "url": "/projects/spy/name-tag",
     "editor": "py",
@@ -47,7 +45,6 @@ Here are some cool tutorials to get you started with your @boardname@!
   "imageUrl": "https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/a2-buttons.png",
   "largeImageUrl": "/docs/static/mb/projects/smiley-buttons/sim.gif",
   "cardType": "tutorial",
-  "youTubeId": "kZOTlXGIzPI",
   "otherActions": [{
     "url": "/projects/python/smiley-buttons",
     "editor": "py",
@@ -63,7 +60,6 @@ Here are some cool tutorials to get you started with your @boardname@!
   "description": "Shake the dice and see what number comes up!",
   "imageUrl": "https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/dice.png",
   "cardType": "tutorial",
-  "youTubeId": "8lrlMwWDPo8",
   "otherActions": [{
     "url": "/projects/spy/dice",
     "editor": "py",
@@ -79,7 +75,6 @@ Here are some cool tutorials to get you started with your @boardname@!
   "description": "Is the micro:bit is feeling the love, see how much!",
   "imageUrl":"https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/a3-pins.png",
   "cardType": "tutorial",
-  "youTubeId": "sEIRwv2Aa2Q",
   "otherActions": [{
     "url": "/projects/spy/love-meter",
     "editor": "py",
@@ -95,7 +90,6 @@ Here are some cool tutorials to get you started with your @boardname@!
   "description": "Build your own social network made of micro:bits.",
   "imageUrl": "https://ghanshyam-shaktawat.github.io/pxt-gh-pages/docs/static/mb/projects/a9-radio.png",
   "cardType": "tutorial",
-  "youTubeId": "egTeIghYXak",
   "otherActions": [{
     "url": "/projects/spy/micro-chat",
     "editor": "py",

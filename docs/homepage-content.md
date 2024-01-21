@@ -7,7 +7,7 @@ Much of content available on the home page is developed or selected by the MakeC
 ![Home page content example](/static/mb/homepage-content-example.jpg)
 
 ## Content requirements
-
+    
 * Your content should be open source and free to use without any restrictions other than author attribution (you may specify an open source license the provides for such usage if you wish).
 * The instructions should be well written and easy to follow.
 * It should not include any personally identifiable information beyond the author's name (authors can remain anonymous too).

@@ -165,21 +165,7 @@
                 "flashUsableEnd": 487424,
                 "flashEnd": 524288
             },
-            "compileService": {
-                "buildEngine": "codal",
-                "codalTarget": {
-                    "name": "codal-microbit-v2",
-                    "url": "https://github.com/lancaster-university/codal-microbit-v2",
-                    "branch": "v0.2.63",
-                    "type": "git"
-                },
-                "codalBinary": "MICROBIT",
-                "githubCorePackage": "lancaster-university/microbit-v2-samples",
-                "gittag": "v0.2.13",
-                "serviceId": "mbcodal2",
-                "dockerImage": "pext/yotta:latest",
-                "yottaConfigCompatibility": true
-            }
+            "compileService": {}
         }
     },
     "runtime": {
@@ -359,7 +345,7 @@
     },
     "appTheme": {
         "accentColor": "#5C005C",
-        "logoUrl": "/",
+        "logoUrl": "https://www.weareproxie.in",
         "logo": "docs/static/logo.portrait.white.svg",
         "docsLogo": "docs/static/logo.square.white.svg",
         "portraitLogo": "docs/static/logo.square.white.svg",
@@ -367,23 +353,20 @@
         "cardLogo": "docs/static/icons/apple-touch-icon.png",
         "appLogo": "docs/static/icons/apple-touch-icon.png",
         "organization": "Proxieverse MakeCode",
-        "organizationUrl": "/",
+        "organizationUrl": "https://www.weareproxie.in",
         "organizationLogo": "docs/static/plogo.png",
         "organizationWideLogo": "docs/static/plogo.png",
         "homeScreenHero": {
             "imageUrl": "docs/static/herogallery/hero-banner.png",
             "name": "Flashing Heart",
             "url": "/projects/flashing-heart",
-            "description": "New? Start here!",
+            "description": "New to microbit? Start here!",
             "cardType": "tutorial"
         },
         "homeScreenHeroGallery": "/hero-banner",
         "homeUrl": "/pxt-gh-pages/",
-        "embedUrl": "/",
-        "shareUrl": "/",
-        "privacyUrl": "https://makecode.com/privacy",
-        "termsOfUseUrl": "https://makecode.com/termsofuse",
-        "githubUrl": "https://github.com/Microsoft/pxt-microbit",
+        "embedUrl": "https://ghanshyam-shaktawat.github.io/pxt-gh-pages/",
+        "shareUrl": "",
         "boardName": "micro:bit",
         "boardNickname": "micro:bit",
         "driveDisplayName": "MICROBIT",
