@@ -5,7 +5,7 @@
     {
         "name": "Tutorials",
         "url": "/tutorials",
-        "imageUrl": "/docs/static/mb/projects/a1-display.png",
+        "imageUrl": "pxt-gh-pages/docs/static/mb/projects/a1-display.png",
         "largeImageUrl": "/docs/static/mb/projects/flashing-heart/sim.gif"
     },
     {

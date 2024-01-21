@@ -9,7 +9,7 @@ Here are some cool tutorials to get you started with your @boardname@!
   "name": "Flashing Heart",
   "url":"/projects/flashing-heart",
   "description": "Make an animated flashing heart.",
-  "imageUrl": "/docs/static/mb/projects/a1-display.png",
+  "imageUrl": "pxt-gh-pages/docs/static/mb/projects/a1-display.png",
   "largeImageUrl": "/docs/static/mb/projects/flashing-heart/sim.gif",
   "cardType": "tutorial",
   "label": "New? Start Here!",
